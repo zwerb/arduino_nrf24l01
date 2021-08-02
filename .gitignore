@@ -1,0 +1,6 @@
+ignore/
+
+*.MOV
+*.MP4
+
+.DS_Store
