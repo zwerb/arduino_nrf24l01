@@ -1,8 +1,9 @@
 /*
-* Arduino Wireless Communication Tutorial
-*     Example 1 - Transmitter Code
+* RF Comms Transmitter (TX) Code
+*     With additonal features added by: Nerdami
+*     -collecting data from DHT11
 *                
-* by Dejan Nedelkovski, www.HowToMechatronics.com
+* With Radio code adapted from: www.HowToMechatronics.com
 * 
 * Library: TMRh20/RF24, https://github.com/tmrh20/RF24/
 */

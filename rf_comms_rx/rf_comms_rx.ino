@@ -1,8 +1,9 @@
 /*
-* Arduino Wireless Communication Tutorial
-*       Example 1 - Receiver Code
+* RF Comms Receiver (RX) Code
+*     With additonal features added by: Nerdami
+*     -writing to OLED
 *                
-* by Dejan Nedelkovski, www.HowToMechatronics.com
+* With Radio code adapted from: www.HowToMechatronics.com
 * 
 * Library: TMRh20/RF24, https://github.com/tmrh20/RF24/
 */
